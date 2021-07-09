@@ -1,0 +1,14 @@
+leader_traits = {
+       Magical_Girls = {
+              type = land
+              trait_type = personality_trait
+              allowed = {
+                      always = no
+              }
+              modifier = {
+                      sickness_chance = -1
+              }
+       }
+       
+       
+}
